@@ -20,6 +20,7 @@ After the training we have an model which is capable of predicting peaople inten
 An example of the output is as follow:
 
 <img src="./assets/sample1.png">
----
+
+
 <img src="./assets/sample2.png">
 
